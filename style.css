@@ -1,0 +1,48 @@
+.button {
+    border: 1px solid red;
+    background-color: white;
+    color: red;
+    padding: 5px 10px 5px 10px ;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: red;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.buttonnik {
+    border: 1px solid green;
+    background-color: white;
+    color: green;
+    padding: 5px 10px 5px 10px ;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.buttonnik:hover {
+    background-color: greenyellow;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.buttonput {
+    border: 1px solid orange;
+    background-color: white;
+    color: orange;
+    padding: 5px 10px 5px 10px ;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.buttonput:hover {
+    background-color: orangered;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
